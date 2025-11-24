@@ -9,13 +9,18 @@ A Laravel-based academic management system for handling Mahasiswa (students) and
 |----|----------------|------|
 | 1 | Fadillah Dani Prawoto | 2310130004 |
 | 2 | Fathi Fathan Fathurrhaman N | 2310130005 |
-| 3 | Muhammad Hafidz Hazhari | 2310130014 |
+| 3 | Muhamad Hafidz Hazhari | 2310130014 |
 | 4 | Angger Hidayat | 2310130002 |
 
 ---
 ## Features
 
 - CRUD for Mahasiswa and Dosen
+- Migration
+- Controller
+- Model
+- Eloquent ORM
+- Processing & Validation Form
 - Form validation with custom rules
 - RESTful routing and controller structure
 - Dynamic views using Blade
