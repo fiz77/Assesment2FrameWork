@@ -2,13 +2,17 @@
 
 A Laravel-based academic management system for handling Mahasiswa (students) and Dosen (lecturers) data. This project is designed to demonstrate CRUD operations, form validation, and clean UI rendering using Blade templates.
 
-# Group Member
+---
+
+## 👥 Anggota Kelompok  
 | No | Nama Lengkap | NIM | Peran |
-|----|----------------|------|
-| 1 | Fadillah Dani Prawoto | 2310130004 |
-| 2 | Fathi Fathan Fathurrhaman N | 2310130005 |
-| 3 | Muhammad Hafidz Hazhari | 2310130014 |
-| 4 | Angger Hidayat | 2310130002 |
+|----|----------------|------|--------|
+| 1 | Fadillah Dani Prawoto | 2310130004 | Route developer & Designer |
+| 2 | Fathi Fathan Fathurrhaman N | 2310130005 | Front End Developer |
+| 3 | Muhammad Hafidz Hazhari | 2310130014 | Back End Developer |
+| 4 | Angger Hidayat | 2310130002 | View Developer & Designer |
+
+---
 ## Features
 
 - CRUD for Mahasiswa and Dosen
