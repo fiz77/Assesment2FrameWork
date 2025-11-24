@@ -4,13 +4,13 @@ A Laravel-based academic management system for handling Mahasiswa (students) and
 
 ---
 
-## 👥 Anggota Kelompok  
-| No | Nama Lengkap | NIM | Peran |
-|----|----------------|------|--------|
-| 1 | Fadillah Dani Prawoto | 2310130004 | Route developer & Designer |
-| 2 | Fathi Fathan Fathurrhaman N | 2310130005 | Front End Developer |
-| 3 | Muhammad Hafidz Hazhari | 2310130014 | Back End Developer |
-| 4 | Angger Hidayat | 2310130002 | View Developer & Designer |
+## Group Member
+| No | Nama Lengkap | NIM |
+|----|----------------|------|
+| 1 | Fadillah Dani Prawoto | 2310130004 |
+| 2 | Fathi Fathan Fathurrhaman N | 2310130005 |
+| 3 | Muhammad Hafidz Hazhari | 2310130014 |
+| 4 | Angger Hidayat | 2310130002 |
 
 ---
 ## Features
